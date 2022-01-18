@@ -50,8 +50,4 @@ public class Running {
         }
         return run;
     }
-
-    public List<Run> getRunList() {
-        return runList;
-    }
 }
